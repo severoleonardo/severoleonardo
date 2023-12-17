@@ -15,7 +15,7 @@ I am currently focused on improving my skills in [insert what you are currently 
 - [Company or Project Name] - [Position] (mm/yyyy - Present)
 
 ## 🌐 Connect
-- [LinkedIn](your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/severoleonardo/)
 - [Twitter](your-twitter)
 - [Website/Blog](your-website)
 
