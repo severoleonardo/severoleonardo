@@ -1,18 +1,18 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🚀 About Me
-Hello, I'm [Your Name], a programming enthusiast passionate about solving problems. My main area of interest is [your area of interest], and I am constantly exploring new technologies to enhance my skills.
+Hello, I'm Severo, a programming enthusiast passionate about solving problems. My main area of interest is Web Development and Software Analysis, and I am constantly exploring new technologies to enhance my skills.
 
 ## 🛠️ Technologies & Tools
-- Languages: [List the languages you use]
-- Frameworks: [List the frameworks you use]
-- Tools: [List the tools and technologies you use]
+- Languages: [Python, SQL, JQL, JavaScript, C#, HTML, CSS ]
+- Frameworks: [Django, Django Rest, Flask, React.js, Angular, React Native]
+- Tools: [VS Code, Azure Data Studio, SMSS, Datadog, Postman, .NET, ASP.NET, Sourcetree, Git, Github, Postman, Jira, Confluence, JSON, XML, Miro, Figma, Notion, Trello, so on...]
 
 ## 🌱 Currently Learning
-I am currently focused on improving my skills in [insert what you are currently studying]. I am always on the lookout for new challenges and learning opportunities.
+I am currently focused on improving my skills in Web Development with Python. I am always on the lookout for new challenges and learning opportunities.
 
 ## 💼 Experience
-- [Company or Project Name] - [Position] (mm/yyyy - Present)
+- Jazz Tech - [Support Analyst] (02/2023 - Present)
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/severoleonardo/)
