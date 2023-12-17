@@ -24,7 +24,7 @@ I am always open to discussing development, collaborations, or just exchanging i
 
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-severoleonardo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severoleonardo&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severoleonardo&hide_progress=false&layout=compact)
 ## 🏆 Featured Projects
 - [Project Name](project-link) - Brief description.
 
