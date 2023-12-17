@@ -25,10 +25,10 @@ I am always open to discussing development, collaborations, or just exchanging i
 ## 📈 GitHub Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severoleonardo&hide_progress=false&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=severoleonardo&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=severoleonardo)](https://github.com/severoleonardo/github-readme-stats)
 
 ## 🏆 Featured Projects
-- [Project Name](project-link) - Brief description.
+- ![Project Name](project-link) - Soon.
+
 
 ## 🤝 Contributions
 I welcome contributions! Feel free to open issues and send pull requests to my projects.
