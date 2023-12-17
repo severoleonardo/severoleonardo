@@ -23,7 +23,7 @@ I am currently focused on improving my skills in Web Development with Python. I 
 I am always open to discussing development, collaborations, or just exchanging ideas. Feel free to contact me!
 
 ## 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-severoleonardo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-severoleonardo&show&icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severoleonardo&hide_progress=false&layout=compact)
 ## 🏆 Featured Projects
 - [Project Name](project-link) - Brief description.
