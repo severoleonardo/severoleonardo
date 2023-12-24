@@ -1,12 +1,12 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🚀 About Me
-I am a father, husband, developer, and analyst specialized in analyzing, designing, documenting, specifying, testing, implementing, and evolving information systems. I bring a software engineering perspective and a holistic approach to problem-solving to deliver products and experiences that connect people and businesses. My focus is on creating secure and high-quality solutions. I am skilled at translating complex problems into simple concepts. In my routine, I use dozens of tools to monitor, analyze, and identify incidents, errors, improvements, and fixes that keep systems and operations running. Those who work with me say that communication, empathy, curiosity, and quick learning are my strongest qualities. I have diverse experience in BaaS solutions, API integrations, data analysis, and full-stack web development. I am competent in all aspects of the software development lifecycle.
+I am a father, husband, developer, and analyst specialized in analyzing, designing, documenting, specifying, testing, implementing, and evolving information systems. I bring a software engineering perspective and a holistic approach to problem-solving to deliver products and experiences that connect people and businesses. My focus is on creating secure and high-quality solutions. I am skilled at translating complex problems into simple concepts. In my routine, I use dozens of tools to monitor, analyze, and identify incidents, errors, improvements, and fixes that keep systems and operations running. Those who work with me say that communication, empathy, curiosity, and quick learning are my strongest qualities. I have diverse experience in BaaS solutions, API integrations, data analysis, and full-stack development. I am competent in all aspects of the software development lifecycle.
 
 ## 🛠️ Technologies & Tools
-- Languages: [Python, SQL, JQL, JavaScript, C#, HTML, CSS ]
+- Languages: [Python, SQL, JavaScript, C#, HTML, CSS ]
 - Frameworks: [Django, Django Rest, Flask, React.js, Angular, React Native]
-- Tools: [VS Code, Azure Data Studio, SMSS, Datadog, Postman, .NET, ASP.NET, Sourcetree, Git, Github, Postman, Jira, Confluence, JSON, XML, Miro, Figma, Notion, Trello, so on...]
+- Tools: [VS Code, Azure Data Studio, SMSS, Datadog, Postman, .NET, ASP.NET, Sourcetree, Git, Gitkraken, Github, Postman, Jira, Confluence, JSON, XML, Miro, Figma, Notion, Trello, so on...]
 
 ## 🌱 Currently Learning
 I am currently focused on improving my skills in Web Development with Python. I am always on the lookout for new challenges and learning opportunities.
