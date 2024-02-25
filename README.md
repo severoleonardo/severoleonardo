@@ -9,7 +9,7 @@ I am a father, husband, and a professional with a background in software develop
 - Tools: [VS Code, Azure Data Studio, SMSS, Datadog, Rundeck, Nifi, Apache Kafka, Postman, ASP.NET, Sourcetree, Git, Gitkraken, Github, Gitlab, Postman, Jira, Confluence, JSON, XML, Miro, Figma, Notion, Trello, so on...]
 
 ## 🌱 Currently Learning
-I am currently focused on improving my skills in Web Development. Here is my study planning based on my software development BS schedule:
+I am currently focused on improving my skills in Web Development. Here is my first half of 2024 study planning based on my software development BS schedule:
 
 - Classes with C# | Jan-Fev 2024 ☑️
 - JavaScript for software engineering | Fev-Abr 2024 (current)
