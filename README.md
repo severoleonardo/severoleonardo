@@ -1,7 +1,7 @@
 # Hey there. Welcome to my GitHub profile!
 
-## 😎 About Me
-'I am a father, husband, and a professional with a background in software development and analysis. My expertise lies in analyzing, designing, documenting, specifying, testing, implementing, and evolving information systems to deliver secure and high-quality solutions. I approach problem-solving with a holistic perspective and focus on creating experiences that connect people and businesses. I specialize in simplifying complex problems and use a variety of tools to monitor, analyze, and identify incidents, errors, improvements, and fixes that keep systems and operations running smoothly. My strongest qualities are communication, empathy, curiosity, and quick learning. I have diverse experience in BaaS solutions, API integrations, data analysis, and full-stack development, and I am competent in all aspects of the software development lifecycle.
+## 👨‍💻 About Me
+Father to an amazing daughter | Devoted husband | Software Developer | Product Owner | Problem Solver | Lifelong Learner | Passionate about building secure, scalable, and human-centered systems. I bring a holistic approach to software development, blending technical expertise with empathy and real communication.
 
 ## 🛠️ Technologies & Tools
 - Languages: [Python · C# · JavaScript · SQL · HTML · CSS]
