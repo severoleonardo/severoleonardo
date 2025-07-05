@@ -1,6 +1,6 @@
-# 👋 Hey there. Welcome to my GitHub profile!
+# Hey there. Welcome to my GitHub profile!
 
-## 🤓 About Me
+## 😎 About Me
 I am a father, husband, and a professional with a background in software development and analysis. My expertise lies in analyzing, designing, documenting, specifying, testing, implementing, and evolving information systems to deliver secure and high-quality solutions. I approach problem-solving with a holistic perspective and focus on creating experiences that connect people and businesses. I specialize in simplifying complex problems and use a variety of tools to monitor, analyze, and identify incidents, errors, improvements, and fixes that keep systems and operations running smoothly. My strongest qualities are communication, empathy, curiosity, and quick learning. I have diverse experience in BaaS solutions, API integrations, data analysis, and full-stack development, and I am competent in all aspects of the software development lifecycle.
 
 ## 🛠️ Technologies & Tools
@@ -9,12 +9,14 @@ I am a father, husband, and a professional with a background in software develop
 - Tools: [VS Code, Azure Data Studio, SMSS, Datadog, Rundeck, Nifi, Apache Kafka, Postman, ASP.NET, Sourcetree, Git, Gitkraken, Github, Gitlab, Postman, Jira, Confluence, JSON, XML, Miro, Figma, Notion, Trello, so on...]
 
 ## 🌱 Currently Learning
-I am currently focused on improving my skills in Web Development. Here is my first half of 2024 study planning based on my software development BS schedule:
+I am currently enrolled in the Bachelor of Applied Science of Software Development program at Brigham Young University (BYU Pathway).
+
+Focused on improving my skills in Web Development. Here is my study planning based on my software development BS schedule:
 
 - Classes with C# | Jan-Fev 2024 ☑️
-- JavaScript for software engineering | Fev-Abr 2024 (current)
-- Web frontend development | Apr-Jun 2024
-- Web backend with Python | Jun-Jul 2024
+- JavaScript for software engineering | Fev-Abr 2024 ☑️
+- Web frontend development | Apr-Jun 2024 ☑️
+- Web backend with Python | Jun-Jul 2024 ☑️
 
 ## 💼 Experience
 I help developers to develop things
