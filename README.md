@@ -1,7 +1,7 @@
 # Hey there. Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
-Father to an amazing daughter | Devoted husband | Software Developer | Product Owner | Problem Solver | Lifelong Learner | Passionate about building secure, scalable, and human-centered systems. I bring a holistic approach to software development, blending technical expertise with empathy and real communication.
+Dad to an brilliant daughter · Devoted husband · Software Developer · Product Owner · Problem Solver · Lifelong Learner · Passionate about building secure, scalable, and human-centered systems. I bring a holistic approach to software development, blending technical expertise with empathy and real communication.
 
 ## 🛠️ Technologies & Tools
 - Languages: [Python · C# · JavaScript · SQL · HTML · CSS]
@@ -12,26 +12,29 @@ Father to an amazing daughter | Devoted husband | Software Developer | Product O
 - UI/UX & Prototyping: [Figma · Adobe XD · Design Systems · Wireframing · User Flows · AI models]
 
 ## 🌱 Currently Learning
-I am currently enrolled in the Bachelor of Applied Science of Software Development program at Brigham Young University (BYU Pathway).
+I am currently enrolled on the Bachelor of Applied Science in Software Development programme at Brigham Young University (BYU Pathway).
 
-Focused on improving my skills in Web Development. Here is my study planning based on my software development BS schedule:
+Focus: Software Development
+-  Web & Computer Programming · Jul-present 2025
+-  Web Development
+-  Software Development
+-  Associate Degree
+-  Bachelor's Degree
 
-- Classes with C# | Jan-Fev 2024 ☑️
-- JavaScript for software engineering | Fev-Abr 2024 ☑️
-- Web frontend development | Apr-Jun 2024 ☑️
-- Web backend with Python | Jun-Jul 2024 ☑️
+Focus: Product Management
+-  CSPO Certification
 
 ## 💼 Experience
-I help developers to develop things
+Helping developers to develop things
 
-- Jazz Tech - [Developer Support Analyst] (02/2023 - Present)
+- Jazz Tech - [Product Owner] (12/2024 - Present)
+- Jazz Tech - [Developer Support Analyst] (02/2023 - 12/2024)
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/severoleonardo/)
-- [Website/Blog](your-website) - Soon
 
 ## 💬 Let's Chat
-I am always open to discussing development, collaborations, or just exchanging ideas. Feel free to contact me!
+I am always open to discussing development and collaboration opportunities, or simply exchanging ideas. Please feel free to contact me!
 
 ## 📈 GitHub Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severoleonardo&hide_progress=false&layout=compact&theme=radical)
@@ -43,5 +46,3 @@ I am always open to discussing development, collaborations, or just exchanging i
 ## 🤝 Contributions
 I welcome contributions! Feel free to open issues and send pull requests to my projects.
 
-## ❤️ Acknowledgments
-Thanks for visiting my profile! If you liked what you saw, don't hesitate to give a ⭐️ to my repositories.
