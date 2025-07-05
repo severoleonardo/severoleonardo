@@ -8,7 +8,7 @@ Dad to an brilliant daughter · Devoted husband · Software Developer · Product
 - Frameworks & Libraries: [Django · Flask · .NET · ASP.NET · React.js · Angular · React Native]
 - API & Integration: [OpenAPI (Swagger) · Postman · JSON · XML · YAML · Apache Kafka · Nifi · BaaS · RESTful APIs]
 - Dev Tools & Platforms: [VS Code · Azure Data Studio · SSMS · Git · GitHub · GitLab · GitKraken · Sourcetree · Rundeck · Datadog]
-- Product Ownership & Agile: [Jira · Confluence · Notion · Miro · Scrum · Kanban · User Story Mapping · Product Backlog Management · OKRs · Lean Canvas]
+- Product Ownership & Agile: [Jira · Confluence · Notion · Miro · Scrum · Kanban · User Story Mapping · Product Backlog Management · OKRs]
 - UI/UX & Prototyping: [Figma · Adobe XD · Design Systems · Wireframing · User Flows · AI models]
 
 ## 🌱 Currently Learning
