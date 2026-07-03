@@ -1,4 +1,4 @@
-# Hey there. Welcome to my GitHub profile!
+# Hi! Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 Dad to an brilliant daughter · Devoted husband · Software Developer · Product Owner · Problem Solver · Lifelong Learner · Passionate about building secure, scalable, and human-centered systems. I bring a holistic approach to software development, blending technical expertise with empathy and real communication.
