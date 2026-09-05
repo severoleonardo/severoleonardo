@@ -19,9 +19,9 @@ Dad to an brilliant daughter · Devoted husband · Software Developer · Product
 ## 💼 Experience
 Helping developers to develop things
 
-- [Technical Product Manager (TPM] (01/2026 - Present)
-- [Platform Product Owner] (10/2025 - 12/2025)
-- [Product Owner] (12/2024 - 09/2025)
+- [Technical Product Manager (TPM)] (01/2026 - Present)
+- [Platform Product Owner (PO)] (10/2025 - 12/2025)
+- [Product Owner (PO)] (12/2024 - 09/2025)
 - [Developer Support Analyst] (02/2023 - 12/2024)
 - [Backend developer] (02/2022 - 08/2022)
 
