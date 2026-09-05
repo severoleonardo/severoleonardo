@@ -1,7 +1,7 @@
 # Hi! Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
-Dad to an brilliant daughter · Devoted husband · Software Developer · Product Owner · Problem Solver · Lifelong Learner · Passionate about building secure, scalable, and human-centered systems. I bring a holistic approach to software development, blending technical expertise with empathy and real communication.
+Dad to an brilliant daughter · Devoted husband · Software Developer · Product Manager · Problem Solver · Lifelong Learner · Passionate about building secure, scalable, and human-centered systems. I bring a holistic approach to software development, blending technical expertise with empathy and real communication.
 
 ## 🛠️ Technologies & Tools
 - Languages: [Python · C# · JavaScript · SQL · HTML · CSS]
