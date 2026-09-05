@@ -11,24 +11,19 @@ Dad to an brilliant daughter · Devoted husband · Software Developer · Product
 - Product Ownership & Agile: [Jira · Confluence · Miro · Scrum · Kanban · User Story Mapping · Product Backlog Management · OKRs]
 - UI/UX & Prototyping: [Figma · Adobe XD · Design Systems · Wireframing · User Flows · AI models]
 
-## 🌱 Currently Learning
-I am currently enrolled on the Bachelor of Applied Science in Software Development programme at Brigham Young University (BYU Pathway).
+## 🌱 Education
 
-Focus: Software Development
--  Web & Computer Programming · Jul-present 2025
--  Web Development
--  Software Development
--  Associate Degree
--  Bachelor's Degree
-
-Focus: Product Management
--  CSPO Certification
+- Bachelor of Applied Science in Software Development programme at Brigham Young University - Idaho
+- Systems Analysis and Development
 
 ## 💼 Experience
 Helping developers to develop things
 
-- Jazz Tech - [Product Owner] (12/2024 - Present)
-- Jazz Tech - [Developer Support Analyst] (02/2023 - 12/2024)
+- [Technical Product Manager (TPM] (01/2026 - Present)
+- [Platform Product Owner] (10/2025 - 12/2025)
+- [Product Owner] (12/2024 - 09/2025)
+- [Developer Support Analyst] (02/2023 - 12/2024)
+- [Backend developer] (02/2022 - 08/2022)
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/severoleonardo/)
@@ -40,9 +35,4 @@ I am always open to discussing development and collaboration opportunities, or s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=severoleonardo&hide_progress=false&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=severoleonardo&show_icons=true&theme=radical)
 
-## 🏆 Featured Projects
-- Soon
-
-## 🤝 Contributions
-I welcome contributions! Feel free to open issues and send pull requests to my projects.
 
